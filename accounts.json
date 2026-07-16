@@ -1,14 +1,5 @@
 {
-  "accounts": [
-    {
-      "username": "venom",
-      "password_hash": "1c5da6816145488935b6a843dfd45b3e1c28009e176ed44c7e0e39c14784ee19",
-      "expiry": "2034-10-02",
-      "hwid": "",
-      "hwid_bound": false,
-      "banned": false
-    }
-  ],
+  "accounts": [],
   "banned": [],
   "maintenance": false
 }
