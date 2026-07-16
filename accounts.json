@@ -7,6 +7,14 @@
       "hwid": "",
       "hwid_bound": false,
       "banned": false
+    },
+    {
+      "username": "qwer",
+      "password_hash": "5fab2324e89cfd4c7e690894b5726a9b488028b67d0ddf24d418f88874917557",
+      "expiry": "2026-09-14",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
