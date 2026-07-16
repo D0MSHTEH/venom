@@ -7,14 +7,6 @@
       "hwid": "04B06B2B_e2cd9528-c713-4431-996e-f7c6f2be8f8d",
       "hwid_bound": true,
       "banned": false
-    },
-    {
-      "username": "qwe1",
-      "password_hash": "56f6a871e2f453a60ac4b81fb1af338d92b00c1fb84e915c01d9c8d6b3ad3ed8",
-      "expiry": "2026-08-20",
-      "hwid": "04B06B2B_e2cd9528-c713-4431-996e-f7c6f2be8f8d",
-      "hwid_bound": true,
-      "banned": false
     }
   ],
   "banned": [],
