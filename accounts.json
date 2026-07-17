@@ -52,8 +52,8 @@
       "username": "Serj965",
       "password_hash": "95ad210491a0c9086d66b7c3a5500bb5ba0e579c3a41951d57d28172db99ec4b",
       "expiry": "2027-05-13",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "78C20BAF_",
+      "hwid_bound": true,
       "banned": false
     }
   ],
