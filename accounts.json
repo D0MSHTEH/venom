@@ -84,8 +84,8 @@
       "username": "vovalox",
       "password_hash": "d50ed0878dc56ce8f075ea2198534fd805b3944f01409a7111d3924e9ac901b9",
       "expiry": "2027-05-13",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "A2389BFD_",
+      "hwid_bound": true,
       "banned": false
     }
   ],
