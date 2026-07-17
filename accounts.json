@@ -86,7 +86,7 @@
       "expiry": "2027-05-13",
       "hwid": "A2389BFD_",
       "hwid_bound": true,
-      "banned": false
+      "banned": true
     }
   ],
   "banned": [],
