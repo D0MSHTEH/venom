@@ -31,6 +31,14 @@
       "hwid": "04B06B2B_e2cd9528-c713-4431-996e-f7c6f2be8f8d",
       "hwid_bound": true,
       "banned": false
+    },
+    {
+      "username": "vova",
+      "password_hash": "70dc95a77e6913301dd8c0a67a4af278da2d22658baaf82482782cbb65ee8e2a",
+      "expiry": "2026-08-16",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
