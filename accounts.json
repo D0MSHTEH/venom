@@ -55,6 +55,14 @@
       "hwid": "78C20BAF_",
       "hwid_bound": true,
       "banned": false
+    },
+    {
+      "username": "sldkq11",
+      "password_hash": "4a0697d2aca7454af375dc5dc5122cb4e422187797c0327b2fa8e6553b18042e",
+      "expiry": "2027-05-13",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
