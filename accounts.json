@@ -39,6 +39,14 @@
       "hwid": "",
       "hwid_bound": false,
       "banned": false
+    },
+    {
+      "username": "sdukb124412",
+      "password_hash": "dd66012c410ea005331b0ca64414c946aa93c2c4fe5c6a364a6b6322b226e35e",
+      "expiry": "2027-05-13",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
