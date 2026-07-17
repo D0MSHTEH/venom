@@ -68,8 +68,8 @@
       "username": "gabiri",
       "password_hash": "04b156b0f3f6384735cedcf67e76055f7d9004344c255433d558d15416b13332",
       "expiry": "2027-05-13",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "F2B4D1D9_",
+      "hwid_bound": true,
       "banned": false
     }
   ],
