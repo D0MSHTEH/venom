@@ -91,7 +91,5 @@
   ],
   "banned": [],
   "maintenance": false,
-  "hwid_bans": [
-    "04B06B2B_e2cd9528-c713-4431-996e-f7c6f2be8f8d"
-  ]
+  "hwid_bans": []
 }
