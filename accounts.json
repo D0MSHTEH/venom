@@ -87,6 +87,14 @@
       "hwid": "A2389BFD_",
       "hwid_bound": true,
       "banned": true
+    },
+    {
+      "username": "RabotnikoFf",
+      "password_hash": "5bbdc81488614dcf8f164dee2577b5fca8bd32710ecfe0c53f89e820834dc769",
+      "expiry": "2027-05-14",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
