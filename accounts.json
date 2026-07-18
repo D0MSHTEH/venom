@@ -92,8 +92,8 @@
       "username": "RabotnikoFf",
       "password_hash": "5bbdc81488614dcf8f164dee2577b5fca8bd32710ecfe0c53f89e820834dc769",
       "expiry": "2027-05-14",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "9AEE90E4_1ccab2ae-3f7f-4ce1-91fd-a14381448b59",
+      "hwid_bound": true,
       "banned": false
     }
   ],
