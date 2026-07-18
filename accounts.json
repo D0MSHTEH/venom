@@ -108,8 +108,8 @@
       "username": "Rabotnik",
       "password_hash": "b843bd428c9d25c2b7517ed69828dd6d0dc73dc7012b2fc5deefa4279826ecfe",
       "expiry": "2027-05-14",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "9AEE90E4_e2cd9528-c713-4431-996e-f7c6f2be8f8d",
+      "hwid_bound": true,
       "banned": false
     }
   ],
