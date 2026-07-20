@@ -17,14 +17,6 @@
       "banned": false
     },
     {
-      "username": "RabotnikoFf",
-      "password_hash": "5bbdc81488614dcf8f164dee2577b5fca8bd32710ecfe0c53f89e820834dc769",
-      "expiry": "2027-05-14",
-      "hwid": "9AEE90E4_1ccab2ae-3f7f-4ce1-91fd-a14381448b59",
-      "hwid_bound": true,
-      "banned": false
-    },
-    {
       "username": "lotyzv",
       "password_hash": "014df66b285df8f2c1525a2ad5e443e65696e604b5ef80d94ee44ad16c44477c",
       "expiry": "2027-05-14",
