@@ -9,14 +9,6 @@
       "banned": false
     },
     {
-      "username": "qwe1",
-      "password_hash": "56f6a871e2f453a60ac4b81fb1af338d92b00c1fb84e915c01d9c8d6b3ad3ed8",
-      "expiry": "2026-08-15",
-      "hwid": "",
-      "hwid_bound": false,
-      "banned": false
-    },
-    {
       "username": "vova",
       "password_hash": "70dc95a77e6913301dd8c0a67a4af278da2d22658baaf82482782cbb65ee8e2a",
       "expiry": "2026-08-16",
