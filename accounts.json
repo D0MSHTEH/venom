@@ -20,8 +20,8 @@
       "username": "fff222qqq",
       "password_hash": "20abe75bc80bd21108d16c2ab621ec02d7f01fbb9e5df91a5ba4e75371aa6669",
       "expiry": "2027-05-16",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "CC3F0B25_",
+      "hwid_bound": true,
       "banned": false
     }
   ],
