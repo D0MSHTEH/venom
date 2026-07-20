@@ -90,7 +90,7 @@
     }
   ],
   "banned": [],
-  "maintenance": false,
+  "maintenance": true,
   "hwid_bans": [
     "A6B02985_"
   ]
