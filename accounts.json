@@ -279,6 +279,14 @@
       "hwid": "",
       "hwid_bound": false,
       "banned": false
+    },
+    {
+      "username": "ddggagsd2",
+      "password_hash": "3b29c6574684fd893da6ac51382919d2ddcbd270ff0ab33b48cb55d4dc0895a6",
+      "expiry": "2027-05-17",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
