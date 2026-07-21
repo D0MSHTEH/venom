@@ -23,6 +23,14 @@
       "hwid": "CC3F0B25_",
       "hwid_bound": true,
       "banned": false
+    },
+    {
+      "username": "qwe1",
+      "password_hash": "1c5da6816145488935b6a843dfd45b3e1c28009e176ed44c7e0e39c14784ee19",
+      "expiry": "2027-05-17",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
