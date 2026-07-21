@@ -6,7 +6,7 @@
       "expiry": "2026-08-15",
       "hwid": "04B06B2B_e2cd9528-c713-4431-996e-f7c6f2be8f8d",
       "hwid_bound": true,
-      "banned": false
+      "banned": true
     },
     {
       "username": "Serj965",
@@ -29,5 +29,5 @@
   "maintenance": false,
   "hwid_bans": [
     "A6B02985_"
-  ]
+  , "04B06B2B_e2cd9528-c713-4431-996e-f7c6f2be8f8d"]
 }
