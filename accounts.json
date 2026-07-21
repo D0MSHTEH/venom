@@ -383,6 +383,14 @@
       "hwid": "",
       "hwid_bound": false,
       "banned": false
+    },
+    {
+      "username": "1238j8sda8as",
+      "password_hash": "66377d75231aa4df06032f262ee20835f21623bb68deb0d9fdd5e22dadb00dbf",
+      "expiry": "2027-05-17",
+      "hwid": "",
+      "hwid_bound": false,
+      "banned": false
     }
   ],
   "banned": [],
