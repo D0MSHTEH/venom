@@ -36,8 +36,8 @@
       "username": "ddsad2sdsa",
       "password_hash": "8fb069f8a411cf6aed1f3153a1b5d9ca00f2f23eb7ae75f0e7ff50d488b1647f",
       "expiry": "2027-05-17",
-      "hwid": "",
-      "hwid_bound": false,
+      "hwid": "66A1ADFA_",
+      "hwid_bound": true,
       "banned": false
     },
     {
